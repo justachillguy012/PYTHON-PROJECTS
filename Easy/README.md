@@ -14,11 +14,12 @@ Subtraction ➖
 Multiplication ✖️
 
 Division
--------------------------------------------------------------------------------------------------------------------
+
 📎 A great project to understand the basics of Python logic flow and user input.
 
 2) 🔐 Secure Password Generator
-A clean, powerful script to generate strong, complex passwords.
+-------------------------------------------------------------------------------------------------------------------
+  A clean, powerful script to generate strong, complex passwords.
 
 Built with clarity. Designed for security.
 Simple in form, solid in defense.
