@@ -4,6 +4,7 @@ Welcome to the Easy zone of my Python journey — where every line of code is a 
 🧠 "Start small, but dream massive."
 
 📂 Projects Included
+-------------------------------------------------------------------------------------------------------------------
 1) 🧮 Simple Python Calculator
 A beginner-friendly terminal-based calculator supporting:
 
@@ -17,8 +18,9 @@ Division
 
 📎 A great project to understand the basics of Python logic flow and user input.
 
-2) 🔐 Secure Password Generator
 -------------------------------------------------------------------------------------------------------------------
+2) 🔐 Secure Password Generator
+
   A clean, powerful script to generate strong, complex passwords.
 
 Built with clarity. Designed for security.
